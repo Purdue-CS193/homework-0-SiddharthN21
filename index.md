@@ -3,4 +3,4 @@
 - Provides Information about several programming tools needed in class.
 - 1 week submission time for homework.
 - Online PSO sessions.
-theme: hacker
+remote_theme: hacker
